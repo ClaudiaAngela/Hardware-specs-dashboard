@@ -40,4 +40,4 @@ A static web page presenting local network (LAN) specifications, connected hardw
 
 ### Option 2: Live Demo
 You can access and test the deployed version directly in your browser without downloading any files:
-* **Live Website:** [Click here to view the live project](https://claudiajakab22.github.io/Hardware-specs-dashboard/)
+* **Live Website:** [Click here to view the live project](https://ClaudiaAngela.github.io/Hardware-specs-dashboard/)
